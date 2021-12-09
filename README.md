@@ -2,6 +2,7 @@
 
 This is an open source app which can be used to do basic surveys. <br>
 It supports multiple question types.
+For demo please check the <a href="https://github.com/dhirajuchil007/SurveyApp/releases">releases page</a>
 
 <img src="https://user-images.githubusercontent.com/11347648/145403370-1860efba-d359-4929-ba6e-62ccf2e3bf0e.jpg" width="200px"/>  
 <img src="https://user-images.githubusercontent.com/11347648/145403449-7b2898df-eac8-4f2a-97bd-2f91baa0d2a2.jpg" width="200px"/> 
