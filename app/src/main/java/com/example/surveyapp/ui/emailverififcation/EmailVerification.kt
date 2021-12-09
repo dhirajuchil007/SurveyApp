@@ -24,7 +24,7 @@ class EmailVerification : AppCompatActivity() {
 
         binding.btnSignIn.setOnClickListener {
             SharedPrefManager(this).addEmail(binding.edtEmail.text.toString())
-            sendVerificationEmail(binding.edtEmail.text.toString())
+
         }
 
         checkEmailLink()
@@ -65,7 +65,7 @@ class EmailVerification : AppCompatActivity() {
         val actionCodeSettings =
             ActionCodeSettings.newBuilder() // URL you want to redirect back to. The domain (www.example.com) for this
                 // URL must be whitelisted in the Firebase Console.
-                .setUrl("https://fcmcheck.page.link/vgNL") // This must be true
+                .setUrl("") // This must be true
                 .setHandleCodeInApp(true)
                 .setIOSBundleId("com.example.ios")
                 .setAndroidPackageName(
