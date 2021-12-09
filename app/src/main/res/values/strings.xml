@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Survey App</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="prompt_confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_email">Not a valid email address</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="invalid_confirm_password">The two passwords do not match</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="enter_your_response_here">Enter your response here</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="already_a_user_tap_here_to_sign_in">Already a user? Tap here to sign in</string>
+    <string name="new_user">New user? Tap here to register</string>
+    <string name="sample_survey">Sample Survey</string>
+    <string name="my_surveys">My Surveys</string>
+    <string name="done">Done</string>
+    <string name="email">Email</string>
+</resources>
